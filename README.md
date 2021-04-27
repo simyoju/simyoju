@@ -22,3 +22,4 @@ Here are some ideas to get you started:
   </div>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rolly1201@gmail.com)](mailto:rolly1201@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://simyoju.github.io/)](https://simyoju.github.io/)
