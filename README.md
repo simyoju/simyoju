@@ -4,7 +4,8 @@
 <h3 align="center"> 🛠Tech Stack🛠 </h3>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"></a>&nbsp
     
