@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=300&section=header&text=HyojuSim&fontSize=90&fontColor=ffffff)
 
 
+<h3 aligen="center"> 🛠Tech Stack🛠 </h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
