@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=300&section=header&text=HyojuSim&fontSize=90&fontColor=ffffff)
 
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=simyoju&title_color=000000"/>
+ </p>
+    
 [![Simyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=simyoju&title_color=000000)](https://github.com/Simyo/github-readme-stats)
 
 </br>
