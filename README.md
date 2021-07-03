@@ -8,7 +8,14 @@
     <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"></a>&nbsp
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simyoju&layout=compact&title_color=000000)](https://github.com/simyoju/github-readme-stats)
+<h3 align="center"> Me💬</h3>
+<p align="center">
+   <a href="https://www.instagram.com/ios_recode/">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
+   <a href="https://www.instagram.com/sii.myo/">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
+   <a href="https://dawnofspring.oopy.io/">
+   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
 
 [![Simyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=simyoju&title_color=000000)](https://github.com/Simyo/github-readme-stats)
 
