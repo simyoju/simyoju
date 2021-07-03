@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=orange"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"></a>&nbsp
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simyoju&layout=compact&title_color=000000)](https://github.com/simyoju/github-readme-stats)
