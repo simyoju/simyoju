@@ -1,10 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=300&section=header&text=HyojuSim&fontSize=90&fontColor=ffffff)
 
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=simyoju&title_color=000000"/>
-</p>
-</br>
+
 
 <h3 align="center"> 🛠Tech Stack🛠 </h3>
 
@@ -23,6 +20,10 @@
    <a href="https://dawnofspring.oopy.io/">
    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
     
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=simyoju&title_color=000000"/>
+</p>
+</br>
  </br>
  </br>
  </br>
