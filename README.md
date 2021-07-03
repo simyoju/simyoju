@@ -11,11 +11,13 @@
 <h3 align="center"> Me💬</h3>
 <p align="center">
    <a href="https://www.instagram.com/ios_recode/">
-   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/Instagram-0B2C4A?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
    <a href="https://www.instagram.com/sii.myo/">
-   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/Instagram-7A1FA2?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
    <a href="https://dawnofspring.oopy.io/">
    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
+    
+ </br>
 
 [![Simyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=simyoju&title_color=000000)](https://github.com/Simyo/github-readme-stats)
 
